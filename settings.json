@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "AldenBuilding.aternos.me",
-    "port": 17531,
+    "port": 17521,
     "version": "1.21.2",
     "try-creative": false
   },
