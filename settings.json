@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MyLittleAlden.aternos.me:26981",
+    "ip": "MyLittleAlden.aternos.me",
     "port": 26981,
     "version": "",
     "try-creative": false
