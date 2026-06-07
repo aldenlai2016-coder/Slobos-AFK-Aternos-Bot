@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MyLittleAlden.aternos.me",
-    "port": 26981,
+    "ip": "AldenBuilding.aternos.me",
+    "port": 17531,
     "version": "26.1.2",
     "try-creative": false
   },
